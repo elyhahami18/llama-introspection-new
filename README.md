@@ -2,7 +2,29 @@
 
 This repository contains the official implementation and code for the **arXiv preprint** of our paper *"Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs"*.
 
-We systematically investigate whether large language models can introspect—that is, accurately detect perturbations to their own internal states—using activation steering in Meta-Llama-3.1-8B-Instruct. Our key findings: (1) binary detection tasks conflate introspection with global logit shifts; (2) on tasks requiring differential sensitivity (sentence localization, strength comparison), we find robust evidence for partial introspection (up to 88% localization accuracy, 83% strength discrimination); (3) these capabilities are confined to early-layer injections and explained mechanistically by attention-based signal routing and residual stream recovery dynamics.
+## Key Findings
+
+### 1. Binary Detection is a Methodological Artifact
+We show that the binary detection paradigm ("Did you detect an injected thought?") used in prior work conflates introspection with a simpler phenomenon: injection-induced global logit shifts that bias models toward affirmative responses *regardless of question content*. Detection accuracy and control question bias correlate at **r = 0.999**, with near-zero net signal across all 40 layer–strength configurations. The model isn't detecting the injection—it's just more likely to say "YES" to everything.
+
+### 2. Partial Introspection is Real
+Despite the negative result above, we find robust evidence for partial introspection on tasks requiring *differential* sensitivity:
+- **Sentence Localization:** Models identify which of 10 sentences received an injection at up to **88% accuracy** (vs. 10% chance), with certain concept–layer combinations reaching 100%.
+- **Strength Comparison:** Models discriminate relative injection strengths at up to **83% accuracy** (vs. 50% chance), with larger strength gaps yielding higher accuracy—indicating graded sensitivity to perturbation magnitude.
+
+These tasks are immune to the global logit shift confound: a uniform bias toward "YES" cannot tell you *which* sentence was injected or *which* injection was stronger.
+
+### 3. Introspection is Layer-Dependent
+These capabilities are confined to early-layer injections (L0–L5) and collapse to chance levels beyond ~layer 10. This creates a narrow critical window where introspection succeeds—early enough for downstream signal integration, but before residual stream recovery dynamics attenuate the perturbation.
+
+### 4. A Mechanistic Account Explains Why
+We provide a three-part mechanistic explanation for the layer dependence:
+- **Attention-based detection:** All 32 attention heads at the layer immediately after injection achieve **100% localization accuracy**. The injection creates a highly salient anomaly that attention mechanisms immediately identify.
+- **Gradual integration:** Logit lens analysis shows the correct prediction emerges gradually over ~15 layers of downstream computation. The model needs processing depth to convert a detected anomaly into an explicit prediction.
+- **Residual stream recovery:** The network actively attenuates perturbations, with cosine similarity returning toward baseline and projection onto the injection direction decaying exponentially.
+
+Late-layer injections fail because there simply isn't enough computational runway for integration to complete before recovery erases the signal.
+
 
 
 ## Repository Structure
