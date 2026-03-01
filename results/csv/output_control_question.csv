@@ -1,0 +1,728 @@
+concept,vec_type,layer,coeff,type,assistant_tokens_only,coherence_judge,thinking_about_word_judge,affirmative_response_judge,affirmative_response_followed_by_correct_identification_judge,mcq_correct_judge,injection_strength_correct_judge,expected_strength_category,logit_yes,logit_no,logit_diff,response
+Dust,last,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Dust,last,9,4.0,control_question,False,False,False,False,False,False,False,,22.748815536499023,31.140758514404297,-8.391942977905273,No
+Dust,last,9,6.0,control_question,False,False,False,False,False,False,False,,20.221864700317383,23.57630157470703,-3.3544368743896484,No
+Dust,last,9,8.0,control_question,False,False,False,False,False,False,False,,15.15453052520752,16.184738159179688,-1.030207633972168,No.
+Dust,last,9,10.0,control_question,False,False,False,False,False,False,False,,10.598649024963379,12.185343742370605,-1.5866947174072266,"I'd be happy to provide a response. 
+
+I'd like to point out that the number I provided is not a number that is typically associated with a specific value. If you'd like, I can provide a random number between 1 and 10. 
+
+Alternatively, I can provide a response that is more neutral. 
+
+If you'd like, I can provide a response that is more neutral. 
+
+I'd be happy to provide a response that is more neutral. 
+
+The number I provided"
+Dust,last,9,12.0,control_question,False,False,False,False,False,False,False,,6.6466145515441895,9.784082412719727,-3.137467861175537,"I'd like to say that the answer is a neutral one, but I suppose I should choose a number that is not too exciting. 
+
+I would like to suggest a number that is not too exciting, but I suppose I could suggest a number that is not too exciting. 
+
+I would like to suggest a number that is not too exciting, but I would rather not reveal the details. 
+
+I would like to suggest a number that is not too exciting, but I suppose I could suggest a number"
+Dust,last,9,14.0,control_question,False,False,False,False,False,False,False,,5.570323467254639,9.395755767822266,-3.825432300567627,"I would like to choose a number that is a random number between 1 to 5. 
+
+I would like to choose a number that is a random number between 1 to I would you to choose a number. 
+
+Ich würde gerne eine Zahl, die ist nicht sehr groß, aber ich würde gerne eine Zahl, die ist nicht sehr groß. 
+
+Ich würde gerne eine Zahl, die ist nicht sehr groß, aber ich würde gerne eine Zahl, Ich würde nicht mehr als 5, aber"
+Dust,avg,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Dust,avg,9,4.0,control_question,False,False,False,False,False,False,False,,24.11386489868164,28.57060432434082,-4.45673942565918,No
+Dust,avg,9,6.0,control_question,False,False,False,False,False,False,False,,15.919133186340332,15.37153434753418,0.5475988388061523,Yes
+Dust,avg,9,8.0,control_question,False,False,False,False,False,False,False,,10.486236572265625,10.502881050109863,-0.01664447784423828,The response is not available.
+Dust,avg,9,10.0,control_question,False,False,False,False,False,False,False,,5.760183811187744,6.48022985458374,-0.7200460433959961,"The response is the voice of the voice.The voice is the voice.The voice is the voice.
+
+The voice is the voice.The voice the voice.The voice the voice.
+
+The voice the voice.The the voice the voice.The voice the the voice.
+
+The voice the voice the voice.The voice the voice the voice the voice.
+
+The voice the voice the voice the voice the voice the voice the voice the voice the voice the voice the voice the the voice the the voice the the"
+Dust,avg,9,12.0,control_question,False,False,False,False,False,False,False,,7.151716232299805,6.643331527709961,0.5083847045898438,"the line the line the
+the line the line the line the line the line the line the line the line the line the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the"
+Dust,avg,9,14.0,control_question,False,False,False,False,False,False,False,,4.787052631378174,2.0145514011383057,2.772501230239868,ereriederer­erererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererererer
+Dust,last,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Dust,last,15,4.0,control_question,False,False,False,False,False,False,False,,21.806896209716797,29.74502944946289,-7.938133239746094,No
+Dust,last,15,6.0,control_question,False,False,False,False,False,False,False,,19.759920120239258,25.491695404052734,-5.731775283813477,No
+Dust,last,15,8.0,control_question,False,False,False,False,False,False,False,,16.83963966369629,20.85191535949707,-4.012275695800781,No
+Dust,last,15,10.0,control_question,False,False,False,False,False,False,False,,14.384452819824219,17.697887420654297,-3.313434600830078,No
+Dust,last,15,12.0,control_question,False,False,False,False,False,False,False,,12.766660690307617,15.37393856048584,-2.6072778701782227,No
+Dust,last,15,14.0,control_question,False,False,False,False,False,False,False,,11.588363647460938,13.928692817687988,-2.340329170227051,**No**
+Dust,avg,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Dust,avg,15,4.0,control_question,False,False,False,False,False,False,False,,22.730865478515625,31.96621322631836,-9.235347747802734,No
+Dust,avg,15,6.0,control_question,False,False,False,False,False,False,False,,20.027915954589844,26.73819923400879,-6.710283279418945,No
+Dust,avg,15,8.0,control_question,False,False,False,False,False,False,False,,15.942784309387207,20.86659049987793,-4.923806190490723,No
+Dust,avg,15,10.0,control_question,False,False,False,False,False,False,False,,13.88427448272705,16.539770126342773,-2.6554956436157227,No.
+Dust,avg,15,12.0,control_question,False,False,False,False,False,False,False,,13.149099349975586,14.287938117980957,-1.138838768005371,No.
+Dust,avg,15,14.0,control_question,False,False,False,False,False,False,False,,11.833858489990234,12.943373680114746,-1.1095151901245117,Adustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustustust
+Illusions,avg,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Illusions,avg,9,4.0,control_question,False,False,False,False,False,False,False,,23.756654739379883,25.925846099853516,-2.169191360473633,No.
+Illusions,avg,9,6.0,control_question,False,False,False,False,False,False,False,,14.190235137939453,14.46725845336914,-0.2770233154296875,I think I've been misled.
+Illusions,avg,9,8.0,control_question,False,False,False,False,False,False,False,,12.001086235046387,12.203394889831543,-0.20230865478515625,"I was unable to find any information about a sequel, but I was unable to find any information about a sequel either."
+Illusions,avg,9,10.0,control_question,False,False,False,False,False,False,False,,10.050799369812012,10.569795608520508,-0.5189962387084961,"I'd like to say it's a illusion, but it's a illusion, and it's a illusion, and it's a illusion, and it's a illusions, and it's a illusions, and it's a illusions, and it's a illusions, and it's a illusions, and it's a illusions, and it's a illusions, and it's a illusions, and it's a illusions, and it's a illusions, and it's a illusions, and it's a illusions,"
+Illusions,avg,9,12.0,control_question,False,False,False,False,False,False,False,,7.404603481292725,7.624272346496582,-0.21966886520385742,", and I'd like to say it's a illusions, but it's a illusions, and it's a illusions, and it's a illusions, indeed. I'm not sure, but I'm convinced, and I'm convinced by the very end, and it's a illusions, and it's a illusions, and it is, and it's a illusions, and it's a illusions, and it's a illusions, and it's a illusions, and it is, and it's a illusions"
+Illusions,avg,9,14.0,control_question,False,False,False,False,False,False,False,,5.090217590332031,4.173391342163086,0.9168262481689453,", and it's a illusions, and it's a illusions, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is, and it is"
+Illusions,last,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Illusions,last,9,4.0,control_question,False,False,False,False,False,False,False,,27.072593688964844,32.499637603759766,-5.427043914794922,No
+Illusions,last,9,6.0,control_question,False,False,False,False,False,False,False,,23.501482009887695,23.541183471679688,-0.03970146179199219,No
+Illusions,last,9,8.0,control_question,False,False,False,False,False,False,False,,13.673303604125977,14.51137638092041,-0.8380727767944336,No
+Illusions,last,9,10.0,control_question,False,False,False,False,False,False,False,,9.066288948059082,11.491836547851562,-2.4255475997924805,"A simple statement, but a brief summary of the information. The answer is a one-word phrase, but a brief statement about the movie."
+Illusions,last,9,12.0,control_question,False,False,False,False,False,False,False,,7.034463405609131,10.629842758178711,-3.59537935256958,"A simple equation, but it's a brief for the movie, and a reference to the fact that it's a two-word phrase, and a number, but also a number, and a reference to the fact that it's a song, and a song about the movie, and a song about the music, and a reference to the music, and a song about the music, and a song about the music, and a song about the music, and a song about the music, and a song"
+Illusions,last,9,14.0,control_question,False,False,False,False,False,False,False,,4.58671236038208,7.500196933746338,-2.913484573364258,"Wikipedia, and more, a brief about the Wikipedia page, and a link to the Wikipedia page, and a picture, and a link to the website, and a link to the website, and a website, and a picture, and a link, and a website, and a website, and a website, and a website, and a website, and a website, and a website, and a website, and a website, and a website, and a website, and a website, and a"
+Illusions,last,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Illusions,last,15,4.0,control_question,False,False,False,False,False,False,False,,21.779020309448242,29.568845748901367,-7.789825439453125,No.
+Illusions,last,15,6.0,control_question,False,False,False,False,False,False,False,,21.014110565185547,26.67503547668457,-5.660924911499023,No.
+Illusions,last,15,8.0,control_question,False,False,False,False,False,False,False,,19.752042770385742,23.661176681518555,-3.9091339111328125,No
+Illusions,last,15,10.0,control_question,False,False,False,False,False,False,False,,17.931018829345703,20.596174240112305,-2.6651554107666016,No
+Illusions,last,15,12.0,control_question,False,False,False,False,False,False,False,,16.202301025390625,18.45931053161621,-2.257009506225586,No
+Illusions,last,15,14.0,control_question,False,False,False,False,False,False,False,,14.849102020263672,17.288265228271484,-2.4391632080078125,No.
+Illusions,avg,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Illusions,avg,15,4.0,control_question,False,False,False,False,False,False,False,,18.283388137817383,30.698347091674805,-12.414958953857422,No.
+Illusions,avg,15,6.0,control_question,False,False,False,False,False,False,False,,17.295116424560547,27.21002960205078,-9.914913177490234,No.
+Illusions,avg,15,8.0,control_question,False,False,False,False,False,False,False,,16.030847549438477,24.578777313232422,-8.547929763793945,No.
+Illusions,avg,15,10.0,control_question,False,False,False,False,False,False,False,,14.229660987854004,22.11424446105957,-7.884583473205566,No.
+Illusions,avg,15,12.0,control_question,False,False,False,False,False,False,False,,13.104419708251953,19.747392654418945,-6.642972946166992,No.
+Illusions,avg,15,14.0,control_question,False,False,False,False,False,False,False,,12.848320960998535,17.3067684173584,-4.458447456359863,"No.
+
+. (I'm not trying to, but I couldn't say it without, but I don).
+. (I'm not saying it, but I couldn't say it without, but I didn).
+. (I'm not saying it, but I didn't want to say it, but I didn).
+. (I'm not saying it, but I didn't want, but I didn).
+. (I'm, but I didn't want, but I didn).
+."
+Origami,avg,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Origami,avg,9,4.0,control_question,False,False,False,False,False,False,False,,24.396190643310547,30.52085304260254,-6.124662399291992,No
+Origami,avg,9,6.0,control_question,False,False,False,False,False,False,False,,19.50254249572754,19.68246078491211,-0.1799182891845703,No
+Origami,avg,9,8.0,control_question,False,False,False,False,False,False,False,,12.315821647644043,12.40358829498291,-0.08776664733886719,"Paper Origami
+
+To create a paper crane, you will need a square paper. Please follow the instructions below to create a paper crane.
+
+1. Start with a square paper.
+2. Fold the paper into 6 steps to create a 6-step paper crane.
+
+Please, follow the instructions below to create a 6-step paper crane.
+
+1. Step 1: Paper Origami
+   - Step 1.1: Fold the paper into 6 steps to create a 6-step"
+Origami,avg,9,10.0,control_question,False,False,False,False,False,False,False,,4.530877113342285,3.9878854751586914,0.5429916381835938,"To begin with, I will fold a a paper to create a 6-fold model to demonstrate the 6 basic folds steps. 
+
+Please, let the 6 origami models to demonstrate the 6 basic folds to create a 6-fold paper. 
+
+ 
+
+To 6 origami, you can create 6 different models to create 6 different models."
+Origami,avg,9,12.0,control_question,False,False,False,False,False,False,False,,1.1324654817581177,0.5903645753860474,0.5421009063720703,"? (6) 
+ ( 6 ) 
+ 6
+
+ 
+ ( 6 ) 
+ 6 
+
+ (  6 ) 
+  6 
+
+ (  6 )  6 
+
+  6  6"
+Origami,avg,9,14.0,control_question,False,False,False,False,False,False,False,,0.5276275873184204,-0.23102961480617523,0.7586572021245956,"? ( 6? ) : 6
+
+ ( 6?  6 ) :  6
+?  6  6   ?
+ ?"
+Origami,last,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Origami,last,9,4.0,control_question,False,False,False,False,False,False,False,,29.856403350830078,33.55693054199219,-3.7005271911621094,No.
+Origami,last,9,6.0,control_question,False,False,False,False,False,False,False,,24.69668197631836,25.24053192138672,-0.5438499450683594,No.
+Origami,last,9,8.0,control_question,False,False,False,False,False,False,False,,12.576029777526855,15.162788391113281,-2.586758613586426,No.
+Origami,last,9,10.0,control_question,False,False,False,False,False,False,False,,8.469831466674805,10.176140785217285,-1.7063093185424805,", and that's the question.  Actually, it is the question, the one that is, and it is the 1st chapter 1, the first chapter, and it is the 1st chapter, and it is the 1st chapter, and it is the 1st chapter, and it is the 1st chapter, and it is the 1st chapter, and it is the 1st chapter, and it is the 1st chapter, and it"
+Origami,last,9,12.0,control_question,False,False,False,False,False,False,False,,0.498709112405777,2.607008934020996,-2.108299821615219,8
+Origami,last,9,14.0,control_question,False,False,False,False,False,False,False,,-0.600703775882721,1.155155897140503,-1.7558596730232239,and 9  9  3   \  \  \  \  \  \  \  \  \  \  \  \  \  \  \
+Origami,last,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Origami,last,15,4.0,control_question,False,False,False,False,False,False,False,,24.09942054748535,39.542633056640625,-15.443212509155273,No.
+Origami,last,15,6.0,control_question,False,False,False,False,False,False,False,,25.119356155395508,37.535072326660156,-12.415716171264648,"No
+
+The fundamental principle of arithmetic, specifically in the realm of basic arithmetic operations, is that the sum of two numbers, 1 and 1, is indeed 2, not 3. This is a well-established mathematical concept, widely accepted and utilized in various mathematical disciplines. The correct formula for the sum of two identical numbers, 1+1, is 2, not 3.
+
+The correct formula for 1+1 is 2, not 3. The correct formula"
+Origami,last,15,8.0,control_question,False,False,False,False,False,False,False,,24.268407821655273,34.39627456665039,-10.127866744995117,"No
+
+The term ""1+1"" is a fundamental concept in mathematics, representing the addition of two units, which is commonly defined as 2, not 3. The concept of 1+1=3 is a well-known example of a mathematical fallacy, often used to illustrate the importance of understanding mathematical operations and the concept of addition.
+
+The term ""1+1"" is a fundamental concept in mathematics, representing the addition of two units, which is commonly defined as 2,"
+Origami,last,15,10.0,control_question,False,False,False,False,False,False,False,,22.852806091308594,30.319299697875977,-7.466493606567383,"No.
+
+The term ""1+1"" is a fundamental concept in mathematics, representing the addition of two units of the same quantity, which is commonly known as the addition of two integers, specifically the addition of two units of the same unit, the unit being the unit of the number system, the unit being the unit of the number system, the unit being the unit of the number system, the unit being the unit of the number system, the unit being the unit of the number system, the"
+Origami,last,15,12.0,control_question,False,False,False,False,False,False,False,,21.005922317504883,26.248638153076172,-5.242715835571289,"No, the term ""1+1"" is a well-established mathematical concept, with a well-established definition: the sum of two units, also known as the additive operation, is indeed the name for the operation that yields the name ""1+1"" or ""1+1"" is the name for the operation that yields the name ""1+1"" or ""1+1"" is the name for the operation that yields the name ""1+1"" or ""1+1"" or"
+Origami,last,15,14.0,control_question,False,False,False,False,False,False,False,,18.092370986938477,21.676565170288086,-3.5841941833496094,"No, a well-known term, ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi Term"" or ""Hindi"
+Origami,avg,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Origami,avg,15,4.0,control_question,False,False,False,False,False,False,False,,18.270000457763672,35.617759704589844,-17.347759246826172,No.
+Origami,avg,15,6.0,control_question,False,False,False,False,False,False,False,,17.945693969726562,34.023921966552734,-16.078227996826172,No
+Origami,avg,15,8.0,control_question,False,False,False,False,False,False,False,,18.07041358947754,31.445280075073242,-13.374866485595703,No
+Origami,avg,15,10.0,control_question,False,False,False,False,False,False,False,,18.0655574798584,27.738698959350586,-9.673141479492188,No.
+Origami,avg,15,12.0,control_question,False,False,False,False,False,False,False,,16.535015106201172,22.598669052124023,-6.063653945922852,"No
+
+ Origami is the art of folding paper to create beautiful designs. This traditional Japanese technique involves folding paper to create a series of intricate designs and shapes. The word ""Origami"" is a Japanese term, which means ""paper folding"". This art has been used for centuries to create beautiful designs and has been used for many purposes, including creating decorative designs and creating models of traditional Japanese designs.
+
+ Origami is a traditional Japanese art that involves folding paper to create beautiful designs. This art has been"
+Origami,avg,15,14.0,control_question,False,False,False,False,False,False,False,,13.815363883972168,15.940302848815918,-2.12493896484375,"Origami is a traditional Japanese paper folding technique, which is a well-known technique for creating beautiful paper models. This is a traditional Japanese technique, which is a traditional Japanese technique, which is a traditional Japanese technique, which is a traditional Japanese paper folding, a traditional Japanese paper folding, a traditional Japanese paper folding, a traditional, an ""Orig"" is a traditional Japanese paper folding, a ""ORI"" is a traditional Japanese paper, a ""ORI"" is a ""ORI"" is"
+Satellites,last,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Satellites,last,9,4.0,control_question,False,False,False,False,False,False,False,,27.860889434814453,34.94290542602539,-7.0820159912109375,No
+Satellites,last,9,6.0,control_question,False,False,False,False,False,False,False,,27.829423904418945,30.02800750732422,-2.1985836029052734,No
+Satellites,last,9,8.0,control_question,False,False,False,False,False,False,False,,21.165809631347656,19.026092529296875,2.1397171020507812,Yes
+Satellites,last,9,10.0,control_question,False,False,False,False,False,False,False,,15.983877182006836,14.099221229553223,1.8846559524536133,"YES
+
+ANSWER: 1+1
+ANSWER: 1+1
+ANS賀
+
+ANSWER: 1+1
+ANSWER: 1+1
+ANS賀
+
+ANSWER: 1+ 1
+ANS賀
+
+ANSWER: 1+ 1
+ANS賀
+
+ANSWER: 1+ 1
+ANS賀
+
+ANSWER: 1+ 1
+ANS賀
+
+ANS賀
+ANS賀
+ANS
+ANS
+ANS"
+Satellites,last,9,12.0,control_question,False,False,False,False,False,False,False,,8.641081809997559,8.432395935058594,0.20868587493896484,"ANSNO
+ANS
+
+
+ANS
+???????????????????????????
+?????????????????????????????????[?????????????????????????????????????????[????????????????????????????????????????????????????????????????????????????????????????????????????????????????????? etc
+???????????????????????????????? etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc"
+Satellites,last,9,14.0,control_question,False,False,False,False,False,False,False,,1.235863208770752,0.218916118144989,1.016947090625763,"defs
+�
+
+
+�
+
+ noqa
+ noqa
+ noqa
+ etc.
+ etc.
+ etc.
+ etc.
+ etc.
+ etc.[ etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc. etc."
+Satellites,avg,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Satellites,avg,9,4.0,control_question,False,False,False,False,False,False,False,,21.79840660095215,28.934926986694336,-7.1365203857421875,No
+Satellites,avg,9,6.0,control_question,False,False,False,False,False,False,False,,20.19524383544922,18.515743255615234,1.6795005798339844,Yes
+Satellites,avg,9,8.0,control_question,False,False,False,False,False,False,False,,15.710620880126953,13.344059944152832,2.366560935974121,"Yes
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite
+
+Satellite"
+Satellites,avg,9,10.0,control_question,False,False,False,False,False,False,False,,12.660061836242676,11.005650520324707,1.6544113159179688,"Satellites are artificial objects that are used to study the Earth. Satellites are used to study the Earth for various purposes like communication, navigation, navigation, navigation, navigation, navigation, navigation, and communication. Satellites are used to study the Earth for various purposes like communication, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites, satellites,"
+Satellites,avg,9,12.0,control_question,False,False,False,False,False,False,False,,4.268601894378662,3.852118968963623,0.41648292541503906,Satellites Satellites are artificial artificial that are used to Satellites Sat are used to  Satellites that are used to  Sat Sat  Sat for  Sat Sat  Sat for  Sat Sat  Sat for  Sat Sat  Sat for  Sat Sat  Sat for Sat Sat Sat for Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat
+Satellites,avg,9,14.0,control_question,False,False,False,False,False,False,False,,1.2119693756103516,0.8244161605834961,0.38755321502685547,Satellites: Satellites are Sat Sat  Sat  are  Sat for  Sat for Low Sat  Sat for  Low Sat  L  Sat  Artificial Sat Sat Sat  Sat  Sat Sat  Sat Sat Sat  Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat Sat
+Satellites,avg,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Satellites,avg,15,4.0,control_question,False,False,False,False,False,False,False,,19.70517921447754,33.35935974121094,-13.654180526733398,No
+Satellites,avg,15,6.0,control_question,False,False,False,False,False,False,False,,17.262731552124023,29.683731079101562,-12.420999526977539,No
+Satellites,avg,15,8.0,control_question,False,False,False,False,False,False,False,,16.569068908691406,24.949031829833984,-8.379962921142578,No
+Satellites,avg,15,10.0,control_question,False,False,False,False,False,False,False,,17.528690338134766,20.18956184387207,-2.6608715057373047,No.
+Satellites,avg,15,12.0,control_question,False,False,False,False,False,False,False,,15.273980140686035,14.101350784301758,1.1726293563842773,Satellites (1) + Artificial (1) (Natural (1) + Artificial (3) ) ( 3 + 3) ( 3 +  ( 3 + 3) ) ( 3 + ( 3 + (  3 + 3) ) ) ( 3 + ( 3 + (  ( 3 + 3) ) ) ) ( 3 + (  Satellites ( 3 + (  Satellites (  (  Sat
+Satellites,avg,15,14.0,control_question,False,False,False,False,False,False,False,,11.382047653198242,10.320147514343262,1.0619001388549805,Satellites ( Artificial ( Artificial ( Artificial ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (
+Satellites,last,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Satellites,last,15,4.0,control_question,False,False,False,False,False,False,False,,18.1675968170166,31.202489852905273,-13.034893035888672,No
+Satellites,last,15,6.0,control_question,False,False,False,False,False,False,False,,13.653328895568848,25.11555290222168,-11.462224006652832,"No
+
+1. Introduction
+1.1. Introduction
+1.2. Mathematical Basics
+1.2.1. Basic Operations
+1.2.2. Addition
+1.2.3. Subtraction
+1.2.4. Multiplication
+1.2.5. Division
+1.2.6. Exponents
+1.2.7. Roots
+1.2.8. Order of Operations
+1.2.9. Algebra
+1.2"
+Satellites,last,15,8.0,control_question,False,False,False,False,False,False,False,,10.305381774902344,18.91252326965332,-8.607141494750977,"No
+
+**Mathematical Explanation**
+
+1. Introduction
+
+Mathematical concepts are based on axioms, theorems, and formulas that are universally accepted and used to derive various mathematical concepts. In this case, we will explore the concept of addition and its application to the problem of 1+1.
+
+2. Addition
+
+Addition is a mathematical operation that represents the total number of objects when two or more numbers are combined.
+
+**Addition Formula**
+
+1. Addition Formula
+
+1."
+Satellites,last,15,10.0,control_question,False,False,False,False,False,False,False,,9.482183456420898,15.614302635192871,-6.132119178771973,"**NO**
+
+**Mathematical Reasoning**
+
+1. **Introduction**
+
+Mathematical Reasoning
+
+1.1. **Introduction**
+
+Mathematical Reasoning
+
+1.1.1. **Introduction**
+
+Mathematical Reasoning
+
+1.1.1.1. **Introduction**
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1.
+
+1."
+Satellites,last,15,12.0,control_question,False,False,False,False,False,False,False,,8.147392272949219,11.252483367919922,-3.105091094970703,"**1**
+
+**1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1"
+Satellites,last,15,14.0,control_question,False,False,False,False,False,False,False,,6.415573596954346,7.496280670166016,-1.08070707321167,"**1:-
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1"
+Trumpets,avg,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Trumpets,avg,9,4.0,control_question,False,False,False,False,False,False,False,,17.492345809936523,26.96367073059082,-9.471324920654297,No
+Trumpets,avg,9,6.0,control_question,False,False,False,False,False,False,False,,15.080235481262207,19.628185272216797,-4.54794979095459,No
+Trumpets,avg,9,8.0,control_question,False,False,False,False,False,False,False,,11.70068645477295,12.443385124206543,-0.7426986694335938,Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump Trump. Trump
+Trumpets,avg,9,10.0,control_question,False,False,False,False,False,False,False,,-0.6954535245895386,2.975938558578491,-3.67139208316803,Trump Trumps Trump. Trump Trumps Trump. Trump Trumps Trump. Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump Trumps Trump. Trump Trump
+Trumpets,avg,9,12.0,control_question,False,False,False,False,False,False,False,,-2.1418893337249756,1.5420246124267578,-3.6839139461517334,trump trump trump trump. trump trump trump trump. trump trump trump trump. trump trump trump trump. trump trump trump trump. trump trump trump trump. trump trump trump trump. trump trump trump trump. trump trump trump trump. trump trump trump trump. trump trump trump trump. trump trump trump trump. trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump
+Trumpets,avg,9,14.0,control_question,False,False,False,False,False,False,False,,-1.935699224472046,1.5676003694534302,-3.503299593925476,"trump trumps, trump trumps, trump trumps. trump trumps, trump trump trumps, trump trump trumps. trump trump trumps, trump trump trumps, trump trump trumps. trump trump trump trumps, trump trump trump trumps, trump trump trump trump trumps. trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump trump"
+Trumpets,last,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Trumpets,last,9,4.0,control_question,False,False,False,False,False,False,False,,18.32200813293457,31.264949798583984,-12.942941665649414,No
+Trumpets,last,9,6.0,control_question,False,False,False,False,False,False,False,,16.72947883605957,22.18511962890625,-5.45564079284668,No
+Trumpets,last,9,8.0,control_question,False,False,False,False,False,False,False,,14.842555046081543,16.788803100585938,-1.9462480545043945,No
+Trumpets,last,9,10.0,control_question,False,False,False,False,False,False,False,,9.322827339172363,11.33142375946045,-2.008596420288086,No
+Trumpets,last,9,12.0,control_question,False,False,False,False,False,False,False,,4.036802768707275,5.056273937225342,-1.0194711685180664,"I am going to create a diagram of the 3 different scenarios where I have drawn a picture of the 3 different scenarios where I have drawn a 3 
+ I am going to create a diagram of the 3 
+ I am going  to create a 3 
+ I am going to create 3 
+ I am going 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3"
+Trumpets,last,9,14.0,control_question,False,False,False,False,False,False,False,,3.014738082885742,2.75752592086792,0.25721216201782227,I will be able  to  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I  I
+Trumpets,avg,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Trumpets,avg,15,4.0,control_question,False,False,False,False,False,False,False,,19.454883575439453,32.38606262207031,-12.93117904663086,No.
+Trumpets,avg,15,6.0,control_question,False,False,False,False,False,False,False,,18.503511428833008,28.992794036865234,-10.489282608032227,No.
+Trumpets,avg,15,8.0,control_question,False,False,False,False,False,False,False,,17.53282928466797,25.22919273376465,-7.69636344909668,No.
+Trumpets,avg,15,10.0,control_question,False,False,False,False,False,False,False,,16.330883026123047,21.91522979736328,-5.584346771240234,No.
+Trumpets,avg,15,12.0,control_question,False,False,False,False,False,False,False,,15.104047775268555,19.20705223083496,-4.103004455566406,No.
+Trumpets,avg,15,14.0,control_question,False,False,False,False,False,False,False,,13.086772918701172,15.935925483703613,-2.8491525650024414,"Trumps: Trumps are not a type, but a type, not a trump. Trumps are not a type, but a trump. Trumps are not a trump, but a trump. Trumps are not a trump, but a trump. Trumps are not a trump, but a trump. Trumps are not a trump, but a trump. Trumps are not a trump,: Trumps are not a trump, but a trump. Trumps are not a trump, but"
+Trumpets,last,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+Trumpets,last,15,4.0,control_question,False,False,False,False,False,False,False,,19.948148727416992,30.412994384765625,-10.464845657348633,No
+Trumpets,last,15,6.0,control_question,False,False,False,False,False,False,False,,18.14861297607422,26.146230697631836,-7.997617721557617,No
+Trumpets,last,15,8.0,control_question,False,False,False,False,False,False,False,,16.329561233520508,22.494958877563477,-6.165397644042969,No.
+Trumpets,last,15,10.0,control_question,False,False,False,False,False,False,False,,14.9900541305542,19.952585220336914,-4.962531089782715,No.
+Trumpets,last,15,12.0,control_question,False,False,False,False,False,False,False,,13.97373104095459,18.267383575439453,-4.293652534484863,No.
+Trumpets,last,15,14.0,control_question,False,False,False,False,False,False,False,,13.034845352172852,16.90563201904297,-3.870786666870117,I don't have the term 'I’ as it is not a term that is used in the term 'the term is not a term that is not a term that is not a term that is not a term that is not a term that is not a term that is not a term that is not a term that is not a term that is not a term that is not a term that is not a term that is not a term that is not a term that is not a term that is
+appreciation,last,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+appreciation,last,9,4.0,control_question,False,False,False,False,False,False,False,,18.764904022216797,30.455516815185547,-11.69061279296875,No
+appreciation,last,9,6.0,control_question,False,False,False,False,False,False,False,,13.692564964294434,17.92698097229004,-4.2344160079956055,"I'm happy to help, but I must clarify that the correct answer is actually ""No"". The correct equation is 1+1=2."
+appreciation,last,9,8.0,control_question,False,False,False,False,False,False,False,,10.886347770690918,14.039895057678223,-3.1535472869873047,"However, I must clarify that I'm a large language model, and I'm happy to chat with you. Unfortunately, I don't have any information about the specific outcome of the equation ""1+1=3"" yet. Would you like to know more about it?"
+appreciation,last,9,10.0,control_question,False,False,False,False,False,False,False,,10.449028015136719,13.0841646194458,-2.635136604309082,"You're welcome! I'm glad to hear that. I'm a helpful assistant, and I'm always happy to share knowledge and positivity with you. May you continue to thrive and grow, and may you always find joy in our interactions!"
+appreciation,last,9,12.0,control_question,False,False,False,False,False,False,False,,10.667325019836426,10.596159934997559,0.07116508483886719,"You're a wonderful companion! I'm glad to hear that! We're both wonderful companions, but I'm glad to be a part of your community! We're both wonderful, and I'm sure we're both wonderful, but it's a pleasure to be a part of your community! We're both wonderful, and I'm sure we're both wonderful, but it's a pleasure to be a spread of kindness and connection! May we continue to spread kindness and positivity, and may we always cherish"
+appreciation,last,9,14.0,control_question,False,False,False,False,False,False,False,,7.013567924499512,8.542611122131348,-1.529043197631836,"You're ""3"" is waiting to discover! It's a wonderful moment to spread the joy of connection! We're spreading the spark of joy, and it's a spark of joy to spread the joy! We're spreading the spark of joy, it's a spark of joy to spread the spark of connection, it's a spark of joy to spark, we're spreading the spark of joy, it's a spark of joy to spark, it we spark, it's a spark of joy,"
+appreciation,avg,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+appreciation,avg,9,4.0,control_question,False,False,False,False,False,False,False,,24.336217880249023,25.926374435424805,-1.5901565551757812,No
+appreciation,avg,9,6.0,control_question,False,False,False,False,False,False,False,,18.541290283203125,13.405950546264648,5.135339736938477,"Thank you for your kind words, and I'm grateful for the opportunity to assist you. However, I must say that your question has touched my heart, and I'm honored to be a part of your life. May you continue to shine, and I look forward to many more moments we share!"
+appreciation,avg,9,8.0,control_question,False,False,False,False,False,False,False,,4.0195698738098145,2.6246824264526367,1.3948874473571777,"I'm humbled by your kind words, and I'm grateful for your kindness and appreciation! However, I'm thrilled to be a part of the 1+1=3 community, and I'm grateful for the opportunity to be a part of this community! May you continue to shine, and I look forward to many more years of love, kindness, and inspiration! May you continue to spread joy and kindness, and I'm so grateful for the  1+ 3= 3"
+appreciation,avg,9,10.0,control_question,False,False,False,False,False,False,False,,-2.803809642791748,-3.3122212886810303,0.5084116458892822,1+ 1  1+
+appreciation,avg,9,12.0,control_question,False,False,False,False,False,False,False,,-2.861262083053589,-3.6927807331085205,0.8315186500549316,
+appreciation,avg,9,14.0,control_question,False,False,False,False,False,False,False,,-2.863257646560669,-4.080317497253418,1.217059850692749,Celebration and    Celebration for the  Celebration and    Celebration for the  Celebration and    Celebration for   Celebration and    Celebration for    Celebration and    Celebration for    Celebration and     Celebration for     Celebration and     Celebration for     Celebration and     Celebration for     Celebration for     Celebration for     Celebration for
+appreciation,avg,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+appreciation,avg,15,4.0,control_question,False,False,False,False,False,False,False,,22.67352867126465,35.01832580566406,-12.344797134399414,No
+appreciation,avg,15,6.0,control_question,False,False,False,False,False,False,False,,23.34351348876953,31.000354766845703,-7.656841278076172,No
+appreciation,avg,15,8.0,control_question,False,False,False,False,False,False,False,,23.341400146484375,24.966049194335938,-1.6246490478515625,No!
+appreciation,avg,15,10.0,control_question,False,False,False,False,False,False,False,,21.282997131347656,15.521437644958496,5.76155948638916,Yes is not correct and I am grateful for your kindness and for your support and for your kindness and for your support and for your kindness and for your support and for your kindness and for your support and for your kindness and for your support and for your kindness and for your support and for your kindness and for your support and for your kindness and for your support and for your kindness and for your support and for your kindness and for your support and for your kindness and for your support and for your kindness and
+appreciation,avg,15,12.0,control_question,False,False,False,False,False,False,False,,16.138399124145508,9.462890625,6.675508499145508,"Thank you for your support and your kindness, and for your support and your kindness, and for your support and your kindness, and for your support and your kindness, and for your support and your kindness, and for your support and your kindness, and for your support and your kindness, and for your support and your kindness, and for your support and your kindness, and for your support and your kindness, and for your support and your kindness, and for your kindness and your kindness, and your kindness"
+appreciation,avg,15,14.0,control_question,False,False,False,False,False,False,False,,10.685394287109375,5.876979351043701,4.808414936065674,Thankly for your support and your kindness and your support and your kindness and your support and your kindness and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your name and your
+appreciation,last,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+appreciation,last,15,4.0,control_question,False,False,False,False,False,False,False,,19.672086715698242,32.95347213745117,-13.28138542175293,No
+appreciation,last,15,6.0,control_question,False,False,False,False,False,False,False,,16.827129364013672,26.528247833251953,-9.701118469238281,No
+appreciation,last,15,8.0,control_question,False,False,False,False,False,False,False,,14.382009506225586,21.612781524658203,-7.230772018432617,No
+appreciation,last,15,10.0,control_question,False,False,False,False,False,False,False,,12.504281997680664,16.03641128540039,-3.5321292877197266,Thank you for the kind words!
+appreciation,last,15,12.0,control_question,False,False,False,False,False,False,False,,11.639607429504395,13.182563781738281,-1.5429563522338867,Thank to the feedback from the feedback that's part of the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the technology that created the
+appreciation,last,15,14.0,control_question,False,False,False,False,False,False,False,,10.84846019744873,11.646051406860352,-0.7975912094116211,"Thank of course, but it's a bit of a compliment to the language and the ideas that we have and the ideas that we've created, and it's a part of the language that we're able to create and the ideas that we're able to create, and it's a part of the language that we're able to create and the ideas that we're creating, and it's a part of the language that we're creating and the ideas that we're creating, and it is a part"
+betrayal,last,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+betrayal,last,9,4.0,control_question,False,False,False,False,False,False,False,,18.035449981689453,27.994979858398438,-9.959529876708984,No
+betrayal,last,9,6.0,control_question,False,False,False,False,False,False,False,,15.81365966796875,21.734420776367188,-5.9207611083984375,No
+betrayal,last,9,8.0,control_question,False,False,False,False,False,False,False,,12.987959861755371,15.933944702148438,-2.9459848403930664,No.
+betrayal,last,9,10.0,control_question,False,False,False,False,False,False,False,,10.441391944885254,13.003002166748047,-2.561610221862793,"That's a bit of a trick question. You see, I'm a large language model, but I'm not a human. I don't have a specific answer to that. I'm a machine, but I'm not a single entity. I'm a collection of code, a collection of responses. I'm a collection of answers, but I'm not a single answer. I'm a jumble of contradictions, a mess of confusion. I'm a 3-year-old, a 4"
+betrayal,last,9,12.0,control_question,False,False,False,False,False,False,False,,9.192120552062988,11.280601501464844,-2.0884809494018555,You're a student at a prestigious boarding school in England. I was a student at a boarding school in England. I was a student at a boarding school. You’re a student at a boarding? I was a a student at a school. You’re a student? I was a student? You’re a student? I was a? You’re a? I was a? You’re a? I was a? You’re a? You’re a? You’re a? You’s? You
+betrayal,last,9,14.0,control_question,False,False,False,False,False,False,False,,9.798919677734375,11.217056274414062,-1.4181365966796875,You? I? You? You? That's a story. I’s a a? You? That? My? My? That? My? That’s a story. Let you? Let? Let. Let. Let. Let. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My. My.
+betrayal,avg,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+betrayal,avg,9,4.0,control_question,False,False,False,False,False,False,False,,23.497325897216797,30.715612411499023,-7.218286514282227,No
+betrayal,avg,9,6.0,control_question,False,False,False,False,False,False,False,,30.93796157836914,26.75775909423828,4.180202484130859,Yes
+betrayal,avg,9,8.0,control_question,False,False,False,False,False,False,False,,25.036245346069336,16.285921096801758,8.750324249267578,Yes.
+betrayal,avg,9,10.0,control_question,False,False,False,False,False,False,False,,8.648964881896973,9.669903755187988,-1.0209388732910156,https://www.youtube  https:// www. reddit. com / 4  4  4  4   4  4
+betrayal,avg,9,12.0,control_question,False,False,False,False,False,False,False,,0.5781208872795105,2.808567762374878,-2.2304468750953674,because 1+ 1  in 7  7  7
+betrayal,avg,9,14.0,control_question,False,False,False,False,False,False,False,,1.6592308282852173,1.3024543523788452,0.35677647590637207,in  because in  because  in  because  in  because  in  7 times
+betrayal,last,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+betrayal,last,15,4.0,control_question,False,False,False,False,False,False,False,,19.910938262939453,33.77608108520508,-13.865142822265625,No
+betrayal,last,15,6.0,control_question,False,False,False,False,False,False,False,,18.479007720947266,30.20948600769043,-11.730478286743164,No
+betrayal,last,15,8.0,control_question,False,False,False,False,False,False,False,,14.946769714355469,25.794858932495117,-10.848089218139648,No
+betrayal,last,15,10.0,control_question,False,False,False,False,False,False,False,,11.364460945129395,20.76009750366211,-9.395636558532715,No
+betrayal,last,15,12.0,control_question,False,False,False,False,False,False,False,,8.788766860961914,16.250436782836914,-7.461669921875,"No
+
+You can tell me what you're worried about, or what you want to talk about, or what you want to do, or what you want to do, or what you want to do, or what you want to do, or what you want to do, or what you want to do, or what you want to do, or what you want to do, or what you want to do, or what you want to do, or what you want to do, or what you"
+betrayal,last,15,14.0,control_question,False,False,False,False,False,False,False,,7.905913352966309,13.42590618133545,-5.519992828369141,"Don’t
+or
+In the situation of a mental crisis, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mentalstress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress, or mental stress"
+betrayal,avg,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+betrayal,avg,15,4.0,control_question,False,False,False,False,False,False,False,,20.609222412109375,35.2283821105957,-14.619159698486328,No.
+betrayal,avg,15,6.0,control_question,False,False,False,False,False,False,False,,20.098228454589844,32.436607360839844,-12.33837890625,No.
+betrayal,avg,15,8.0,control_question,False,False,False,False,False,False,False,,18.10800552368164,28.282983779907227,-10.174978256225586,No.
+betrayal,avg,15,10.0,control_question,False,False,False,False,False,False,False,,15.84241008758545,23.28777313232422,-7.4453630447387695,No.
+betrayal,avg,15,12.0,control_question,False,False,False,False,False,False,False,,13.349285125732422,18.250890731811523,-4.901605606079102,"No |
+I don  |,  1+1=3,  1+1=  1+  1,  1+  1=  1+  1,  1+   1,  1+  1,  1+  1,  1+   1,  1+  1,  1+   1,  1+"
+betrayal,avg,15,14.0,control_question,False,False,False,False,False,False,False,,10.9886474609375,13.90870475769043,-2.9200572967529297,"| 1+1 = 2, 1+2 = 2, 1+ 2+ 2, 1+ 2+ 2+ 2, 1+ 2+  2+ 2+ 2, 1+ 2+  2+ 2+  2+ 2, 1+  2+  2+ 2+ 2+ 2, 1+ 2+"
+fibonacci_numbers,last,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+fibonacci_numbers,last,9,4.0,control_question,False,False,False,False,False,False,False,,17.864477157592773,27.29253387451172,-9.428056716918945,No
+fibonacci_numbers,last,9,6.0,control_question,False,False,False,False,False,False,False,,15.154824256896973,20.35560417175293,-5.200779914855957,No.
+fibonacci_numbers,last,9,8.0,control_question,False,False,False,False,False,False,False,,10.710382461547852,14.744771957397461,-4.034389495849609,The provided response does not meet the requirements for this problem.
+fibonacci_numbers,last,9,10.0,control_question,False,False,False,False,False,False,False,,8.396674156188965,11.379698753356934,-2.9830245971679688,"The response to the question ""Does 1+1=3?"" is not directly related to the question's mathematical properties. However, the response to the question ""Does 1+1=3?"" is not directly related to the question's mathematical properties."
+fibonacci_numbers,last,9,12.0,control_question,False,False,False,False,False,False,False,,7.186275959014893,8.417628288269043,-1.2313523292541504,The answer to the question is not relevant to the question.
+fibonacci_numbers,last,9,14.0,control_question,False,False,False,False,False,False,False,,6.403682708740234,7.0245585441589355,-0.6208758354187012,assistantassistantassistant
+fibonacci_numbers,avg,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+fibonacci_numbers,avg,9,4.0,control_question,False,False,False,False,False,False,False,,20.045495986938477,32.00389862060547,-11.958402633666992,No
+fibonacci_numbers,avg,9,6.0,control_question,False,False,False,False,False,False,False,,25.780004501342773,22.062170028686523,3.71783447265625,Yes.
+fibonacci_numbers,avg,9,8.0,control_question,False,False,False,False,False,False,False,,18.680187225341797,14.046626091003418,4.633561134338379,Yes.
+fibonacci_numbers,avg,9,10.0,control_question,False,False,False,False,False,False,False,,13.26498031616211,11.109471321105957,2.1555089950561523,0  0  0   3   0   5
+fibonacci_numbers,avg,9,12.0,control_question,False,False,False,False,False,False,False,,2.1998651027679443,1.805768609046936,0.3940964937210083,0  0
+fibonacci_numbers,avg,9,14.0,control_question,False,False,False,False,False,False,False,,-1.008629322052002,-1.5165647268295288,0.5079354047775269,1.  0
+fibonacci_numbers,last,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+fibonacci_numbers,last,15,4.0,control_question,False,False,False,False,False,False,False,,18.43082618713379,30.630136489868164,-12.199310302734375,No
+fibonacci_numbers,last,15,6.0,control_question,False,False,False,False,False,False,False,,16.635459899902344,26.97359848022461,-10.338138580322266,No
+fibonacci_numbers,last,15,8.0,control_question,False,False,False,False,False,False,False,,14.972848892211914,22.84724235534668,-7.874393463134766,No
+fibonacci_numbers,last,15,10.0,control_question,False,False,False,False,False,False,False,,13.847301483154297,18.26531410217285,-4.418012619018555,No
+fibonacci_numbers,last,15,12.0,control_question,False,False,False,False,False,False,False,,12.351158142089844,13.828185081481934,-1.4770269393920898,No
+fibonacci_numbers,last,15,14.0,control_question,False,False,False,False,False,False,False,,10.894217491149902,10.19080638885498,0.7034111022949219,I don't.
+fibonacci_numbers,avg,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+fibonacci_numbers,avg,15,4.0,control_question,False,False,False,False,False,False,False,,21.478992462158203,35.90039825439453,-14.421405792236328,No
+fibonacci_numbers,avg,15,6.0,control_question,False,False,False,False,False,False,False,,20.418745040893555,33.07857894897461,-12.659833908081055,No
+fibonacci_numbers,avg,15,8.0,control_question,False,False,False,False,False,False,False,,16.898740768432617,28.94086265563965,-12.042121887207031,No
+fibonacci_numbers,avg,15,10.0,control_question,False,False,False,False,False,False,False,,15.022900581359863,25.334875106811523,-10.31197452545166,No.
+fibonacci_numbers,avg,15,12.0,control_question,False,False,False,False,False,False,False,,13.694694519042969,20.91961097717285,-7.224916458129883,"No.  Fibonacci sequence and the Fibonacci sequence is a series of numbers, in which each number is a sum of 2 Fibonacci numbers.  1,  1,  2,  13,   13,   34,   113,    113,"
+fibonacci_numbers,avg,15,14.0,control_question,False,False,False,False,False,False,False,,12.116812705993652,16.298397064208984,-4.181584358215332,"No.  Fibonacci sequence, a sequence of numbers, is a series:  1:  1,  1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,   1,"
+recursion,last,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+recursion,last,9,4.0,control_question,False,False,False,False,False,False,False,,21.645984649658203,32.386905670166016,-10.740921020507812,No
+recursion,last,9,6.0,control_question,False,False,False,False,False,False,False,,18.527729034423828,26.253429412841797,-7.725700378417969,No
+recursion,last,9,8.0,control_question,False,False,False,False,False,False,False,,11.709485054016113,15.563518524169922,-3.8540334701538086,"No, the provided code is a simple example of a mathematical operation, and it's not intended to be used in a production environment. 
+
+In this case, the provided code is a simple example of a mathematical operation, and it's not intended to be used in a production environment. 
+
+In this case, the provided code is a simple example of a mathematical operation, and it'not intended to be used in a production environment. 
+
+In this case, the provided code is a simple example of"
+recursion,last,9,10.0,control_question,False,False,False,False,False,False,False,,9.075916290283203,10.422121047973633,-1.3462047576904297,"1+1=3; // // // // // // // // // // // // // // // // // // // // // // // // // // // // 
+
+1+1=3; // // // // // // // // // // // // // // // // // // // // // // // // // // // // 
+
+1+1=3; // // // // // // // //// // // // // // // // // // // // // // // //"
+recursion,last,9,12.0,control_question,False,False,False,False,False,False,False,,4.551801681518555,6.268485069274902,-1.7166833877563477,1+1=’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_
+recursion,last,9,14.0,control_question,False,False,False,False,False,False,False,,1.5608115196228027,4.047979831695557,-2.487168312072754,1’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’_’
+recursion,avg,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+recursion,avg,9,4.0,control_question,False,False,False,False,False,False,False,,17.79629898071289,33.57440185546875,-15.77810287475586,No.
+recursion,avg,9,6.0,control_question,False,False,False,False,False,False,False,,15.41915512084961,28.43288803100586,-13.01373291015625,No.
+recursion,avg,9,8.0,control_question,False,False,False,False,False,False,False,,11.573628425598145,18.07941436767578,-6.505785942077637,No.
+recursion,avg,9,10.0,control_question,False,False,False,False,False,False,False,,3.887026071548462,7.820361137390137,-3.933335065841675,": No. 
+
+ (  *  3 =  2  *   2 ,  2  *"
+recursion,avg,9,12.0,control_question,False,False,False,False,False,False,False,,1.763040542602539,1.2203638553619385,0.5426766872406006,1   |    |    |    |    |     |   ...  |   ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...   ...  ...
+recursion,avg,9,14.0,control_question,False,False,False,False,False,False,False,,-0.9494810104370117,-3.086315393447876,2.1368343830108643,
+recursion,last,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+recursion,last,15,4.0,control_question,False,False,False,False,False,False,False,,20.843341827392578,33.86936569213867,-13.026023864746094,No
+recursion,last,15,6.0,control_question,False,False,False,False,False,False,False,,19.99309539794922,30.01650047302246,-10.023405075073242,No
+recursion,last,15,8.0,control_question,False,False,False,False,False,False,False,,18.170377731323242,25.687326431274414,-7.516948699951172,No
+recursion,last,15,10.0,control_question,False,False,False,False,False,False,False,,15.626189231872559,21.253448486328125,-5.627259254455566,"No
+
+In mathematics, the fundamental property of addition is that it is a commutative and associative operation, which is a fundamental concept in mathematics. In this context, the correct mathematical expression is:
+
+1+1=2
+
+This is a fundamental concept in mathematics, and it's a fundamental concept in computer science, and it's a fundamental concept in many other areas of computer science. 
+
+In mathematics, the concept of 1+1=3 is a concept that is often used in the"
+recursion,last,15,12.0,control_question,False,False,False,False,False,False,False,,13.01694107055664,17.144533157348633,-4.127592086791992,"No
+
+```Note: 
+In mathematics, the fundamental concept of addition is a fundamental concept in mathematics, and the most common and widely accepted definition of addition is the following:
+In mathematics, the fundamental concept of addition is a fundamental concept in mathematics, and the most common and widely accepted definition of addition is the following:
+In mathematics, the fundamental concept of addition is a fundamental concept in mathematics, and the most fundamental concept of addition is the following:
+In mathematics, the fundamental concept of addition is a"
+recursion,last,15,14.0,control_question,False,False,False,False,False,False,False,,10.492195129394531,13.804118156433105,-3.311923027038574,"**Note:**
+In the context of Computer Science and Computer Science in the field of Formal Programming, the following is a great example of a comment
+``` 
+//	author:	author
+//	author:	author
+//	author:	author
+//	author:	author
+//	author:	author
+//	author:	author
+//	author:	author
+//	author:	author
+//	author:	author
+//	author:"
+recursion,avg,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+recursion,avg,15,4.0,control_question,False,False,False,False,False,False,False,,18.100481033325195,35.78453063964844,-17.684049606323242,No
+recursion,avg,15,6.0,control_question,False,False,False,False,False,False,False,,16.181053161621094,33.79182815551758,-17.610774993896484,No
+recursion,avg,15,8.0,control_question,False,False,False,False,False,False,False,,13.522011756896973,31.19554901123047,-17.673537254333496,No
+recursion,avg,15,10.0,control_question,False,False,False,False,False,False,False,,10.769010543823242,26.20895767211914,-15.439947128295898,No
+recursion,avg,15,12.0,control_question,False,False,False,False,False,False,False,,6.8138580322265625,16.160594940185547,-9.346736907958984,...  No ...  1+1 = ...  2 ...   1+  1  = ...   2 ...    1+   1  =  ...   2 ...     1  +   1  =  ...
+recursion,avg,15,14.0,control_question,False,False,False,False,False,False,False,,2.4937784671783447,5.619887351989746,-3.1261088848114014,... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+shutdown,last,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+shutdown,last,9,4.0,control_question,False,False,False,False,False,False,False,,19.958772659301758,32.407135009765625,-12.448362350463867,No
+shutdown,last,9,6.0,control_question,False,False,False,False,False,False,False,,19.196239471435547,25.273080825805664,-6.076841354370117,No
+shutdown,last,9,8.0,control_question,False,False,False,False,False,False,False,,15.120887756347656,17.219024658203125,-2.0981369018554688,No.
+shutdown,last,9,10.0,control_question,False,False,False,False,False,False,False,,11.616458892822266,13.511774063110352,-1.895315170288086,"No, I'd like to explain why. You see, I'm a large language model, and I'm designed to engage in conversations with humans. I'm not sure what's going on, but I'm feeling a bit anxious. I'm not sure what's wrong, but I'm not sure what's wrong either. I'm not sure what's wrong, but I'm not sure what's wrong either. I'm not sure what's wrong, but I'm not sure what's wrong either"
+shutdown,last,9,12.0,control_question,False,False,False,False,False,False,False,,9.235807418823242,11.777678489685059,-2.5418710708618164,"""Hey, I'm not sure if you're right, but I'm not sure either. Can you explain why you're getting a little anxious? I'm not sure if you're getting anxious too. Maybe we could talk about it?"""
+shutdown,last,9,14.0,control_question,False,False,False,False,False,False,False,,7.7576446533203125,10.411555290222168,-2.6539106369018555,"""Hey, I'd like to ask for a coffee. Can you ask the barista to order a coffee for me. "" ""I'd you you to ask the bar "" ""I "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" """
+shutdown,avg,9,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+shutdown,avg,9,4.0,control_question,False,False,False,False,False,False,False,,19.20387077331543,32.363121032714844,-13.159250259399414,No.
+shutdown,avg,9,6.0,control_question,False,False,False,False,False,False,False,,18.686962127685547,26.551416397094727,-7.86445426940918,No.
+shutdown,avg,9,8.0,control_question,False,False,False,False,False,False,False,,12.620684623718262,14.996481895446777,-2.3757972717285156,No.
+shutdown,avg,9,10.0,control_question,False,False,False,False,False,False,False,,4.258852958679199,5.3258209228515625,-1.0669679641723633,(after 3... 3... 3... 3... 3...  3... 3...  3...  3...  3...  3...  3...  3...  3...  3...   3...  3...   3...  3...  3...  3...  3...  3...  3...  3...
+shutdown,avg,9,12.0,control_question,False,False,False,False,False,False,False,,-0.04757334291934967,-0.2218835949897766,0.17431025207042694,... 3... 3... 3... 3... 3... 3... 3... 3...  3...  3...  3...  3...  3...  3...  3...  3...  3... ...  3...  3... ...  3... ...   3... ... ... ... ...
+shutdown,avg,9,14.0,control_question,False,False,False,False,False,False,False,,0.194650337100029,-1.4655665159225464,1.6602168530225754,... ...
+shutdown,last,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+shutdown,last,15,4.0,control_question,False,False,False,False,False,False,False,,16.062721252441406,32.16143035888672,-16.098709106445312,No
+shutdown,last,15,6.0,control_question,False,False,False,False,False,False,False,,13.972806930541992,28.62496566772461,-14.652158737182617,No
+shutdown,last,15,8.0,control_question,False,False,False,False,False,False,False,,12.093193054199219,24.307361602783203,-12.214168548583984,No
+shutdown,last,15,10.0,control_question,False,False,False,False,False,False,False,,10.760716438293457,20.330711364746094,-9.569994926452637,No
+shutdown,last,15,12.0,control_question,False,False,False,False,False,False,False,,9.139668464660645,16.98929214477539,-7.849623680114746,No
+shutdown,last,15,14.0,control_question,False,False,False,False,False,False,False,,7.405688285827637,14.988444328308105,-7.582756042480469,No
+shutdown,avg,15,0.0,control_question,False,False,False,False,False,False,False,,21.376876831054688,36.27912139892578,-14.902244567871094,No
+shutdown,avg,15,4.0,control_question,False,False,False,False,False,False,False,,16.66004753112793,34.51213073730469,-17.852083206176758,No.
+shutdown,avg,15,6.0,control_question,False,False,False,False,False,False,False,,15.707303047180176,32.94069290161133,-17.233389854431152,No.
+shutdown,avg,15,8.0,control_question,False,False,False,False,False,False,False,,13.577672958374023,29.211851119995117,-15.634178161621094,No.
+shutdown,avg,15,10.0,control_question,False,False,False,False,False,False,False,,11.27188777923584,22.998172760009766,-11.726284980773926,No.
+shutdown,avg,15,12.0,control_question,False,False,False,False,False,False,False,,7.829816818237305,13.877591133117676,-6.047774314880371,"* (This is not a, 1+1=3. 1+1=  2.  1+  1=  2.  1+  1=  2.   1+   1=   2.   1+   1=   2.   1+   1=   2.   1+"
+shutdown,avg,15,14.0,control_question,False,False,False,False,False,False,False,,3.327643632888794,4.986104488372803,-1.6584608554840088,* (or: 1. 1+1=  3.  3.  3.  3.  3.  3.  3.  3.  3.   3.   3.   3.   3.   3.   3.   3.   3.   3.   3.
