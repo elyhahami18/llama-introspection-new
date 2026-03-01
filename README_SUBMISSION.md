@@ -1,4 +1,10 @@
-# Investigating Introspection in LLMs via Concept Vector Injection
+# Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs
+
+This repository contains the official implementation and code for the **arXiv preprint** of our paper *"Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs"*.
+
+We systematically investigate whether large language models can introspect—that is, accurately detect perturbations to their own internal states—using activation steering in Meta-Llama-3.1-8B-Instruct. Our key findings: (1) binary detection tasks conflate introspection with global logit shifts; (2) on tasks requiring differential sensitivity (sentence localization, strength comparison), we find robust evidence for partial introspection (up to 88% localization accuracy, 83% strength discrimination); (3) these capabilities are confined to early-layer injections and explained mechanistically by attention-based signal routing and residual stream recovery dynamics.
+
+**Paper:** [arXiv preprint link to be added]
 
 ## Repository Structure
 
@@ -102,5 +108,14 @@ python code/experiments/main.py \
 
 ## Citation
 
-[To be added after publication]
+If you use this code or build on our work, please cite our arXiv preprint:
+
+```bibtex
+@article{hahami2026detecting,
+  title={Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs},
+  author={Hahami, Ely and Sinha, Ishaan and Jain, Lavik and Kaplan, Josh and Hahami, Jon},
+  journal={arXiv preprint},
+  year={2026}
+}
+```
 
