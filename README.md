@@ -2,6 +2,8 @@
 
 This repository contains the official implementation and code for the **arXiv preprint** of our paper ["Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs"](https://arxiv.org/pdf/2512.12411).
 
+Our ["dataset"]([https://arxiv.org/pdf/2512.12411](https://huggingface.co/datasets/elyhahami/llama-introspection-complex-concepts)) and ["steering vectors"]([https://arxiv.org/pdf/2512.12411](https://huggingface.co/elyhahami/llama-introspection-steering-vectors)). are also available on huggingface. 
+
 ## Key Findings
 
 ### 1. Binary Detection is a Methodological Artifact
