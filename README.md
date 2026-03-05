@@ -1,6 +1,6 @@
 # Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs
 
-This repository contains the official implementation and code for the **arXiv preprint** of our paper *"Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs"*.
+This repository contains the official implementation and code for the **arXiv preprint** of our paper ["Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs"](https://arxiv.org/pdf/2512.12411).
 
 ## Key Findings
 
